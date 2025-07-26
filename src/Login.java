@@ -292,7 +292,7 @@ public class Login extends JFrame
              if(event.getKeyCode()==event.VK_ENTER)
                {
                  btlogin.requestFocus();
-                 // TODO add your handling code here:
+                 // TODO add your handling code here: yes
                }
            }
        });
